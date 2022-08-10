@@ -8,7 +8,7 @@ npm version 6.14.4
 yarn v1.22.15
 ```
 
-### install
+### install with yarn
 ```bash
 yarn install
 
